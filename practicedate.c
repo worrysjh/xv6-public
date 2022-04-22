@@ -1,6 +1,6 @@
 #include "types.h"
 #include "user.h"
-#incliude "practicedate.h"
+#include "practicedate.h"
 
 int main(int argc, char *argv[]){
  struct rtcdate r;
